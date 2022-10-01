@@ -1,29 +1,95 @@
-Código: 7BE3A
-Transmission1.txt ==> 5 veces
-10, 15, 22, 40, 56
-Transmission2.txt ==> 3 veces
-5, 11, 25
-Transmission3.txt ==> 1 veces
-30
-La subsecuencia más encontrada es: 7E3A con 4 veces en el archivo Transmisión2.txt 
---------------
-Código:
-....
+Código: AA
+transmission1.txt ==> 3 veces
+428, 616, 858
+transmission2.txt ==> 2 veces
+575, 668
+transmission3.txt ==> 0 veces
 
-==============
+--------------
+Código: A13
+transmission1.txt ==> 3 veces
+24, 154, 823
+transmission2.txt ==> 1 veces
+254
+transmission3.txt ==> 1 veces
+345
+--------------
+Código: 73A2
+transmission1.txt ==> 0 veces
+
+transmission2.txt ==> 0 veces
+
+transmission3.txt ==> 0 veces
+
+--------------
+Código: 1C3
+transmission1.txt ==> 0 veces
+
+transmission2.txt ==> 0 veces
+
+transmission3.txt ==> 1 veces
+528
+--------------
+Código: CDEC
+transmission1.txt ==> 4 veces
+1, 464, 641, 706
+transmission2.txt ==> 0 veces
+
+transmission3.txt ==> 4 veces
+18, 270, 283, 467
+--------------
+Código: FFF
+transmission1.txt ==> 1 veces
+765
+transmission2.txt ==> 0 veces
+
+transmission3.txt ==> 5 veces
+353, 354, 355, 356, 357
+--------------
+Código: 139
+transmission1.txt ==> 1 veces
+25
+transmission2.txt ==> 4 veces
+255, 681, 684, 687
+transmission3.txt ==> 2 veces
+442, 538
+--------------
+Código: CF40
+transmission1.txt ==> 2 veces
+30, 709
+transmission2.txt ==> 1 veces
+995
+transmission3.txt ==> 0 veces
+
+--------------
+Código: 77
+transmission1.txt ==> 4 veces
+57, 474, 484, 768
+transmission2.txt ==> 6 veces
+23, 415, 416, 647, 746, 975
+transmission3.txt ==> 6 veces
+67, 428, 638, 639, 640, 641
+--------------
+Código: 567
+transmission1.txt ==> 0 veces
+
+transmission2.txt ==> 1 veces
+273
+transmission3.txt ==> 0 veces
+
+--------------
+====================
 Palíndromo más grande:
-Transmission1.txt ==> Posición: 12
-0010100
+transmission1.txt ==> Posición: 76
+A2E2A
 ----
-Transmission2.txt ==> Posición: 30
-111
+transmission2.txt ==> Posición: 46
+C8F8C
 ----
-Transmission3.txt ==> Posición: 7
-8FF8
+transmission3.txt ==> Posición: 352
+0FFFFFFF0
 ============
 Los Substring más largos son:
-T1-T2 ==> ABCDEFG
-T1-T3 ==> 11122
-T2-T3 ==> AVC
-
-
+T1-T2 ==> 943A5
+T1-T3 ==> CDEC
+T2-T3 ==> 571139
